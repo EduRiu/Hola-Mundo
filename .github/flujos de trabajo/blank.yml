@@ -1,0 +1,25 @@
+# This is a basic workflow to help you get started with Actions<!DOCTYPE>
+<html>
+    <head>
+
+        <Title> Introducción al desarrollo full stack  </Title>
+		
+    </head>
+
+    <body style="background-color: rgb(193, 221, 230);">
+		
+		
+        <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> Hola Mundo &#127758, soy <b> Eduardo Riu &#129309 </b> </p>
+
+       <p style="font-family: 'Courier New', Courier, monospace;"> <b>Propongo estos link que son de mi interes para el trabajo: </b> </p>
+
+		<p> &#9684 <a href="https://web.whatsapp.com/" target=_blank>https://web.whatsapp.com</a> </p>
+
+        <p> &#9681 <a href="https://www.w3schools.com/" target=_blank>https://www.w3schools.com</a>  </p>
+        
+	    <p> &#9685 <a href="https://velez.com.ar//" target=_blank>https://velez.com.ar</a> </p>
+
+		<img src= "https://i.pinimg.com/564x/dd/16/ab/dd16ab427dfe10845740b74c38cdf465.jpg" alt="Empecemos!" width="500" height="500">
+
+    </body> 
+</html>
